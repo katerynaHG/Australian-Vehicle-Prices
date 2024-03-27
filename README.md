@@ -54,6 +54,6 @@ There is a presumed correlation between fuel efficiency and vehicle price, indic
 
 ## Tools Used
 Python, Pandas, Numpy, Matplotlib, Seaborn, Tableau, Excel
-## Check out our [https://public.tableau.com/app/profile/kateryna.hess/viz/AustralianVehiclePrices_17115763298980/Story1]
+## Check out https://public.tableau.com/app/profile/kateryna.hess/viz/AustralianVehiclePrices_17115763298980/Story1]
 
 
